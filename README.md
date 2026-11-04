@@ -11,27 +11,43 @@
 Участвую в хакатонах, в том числе в роли капитана команды. Беру на себя разработку, настройку окружения и подготовку проекта к демонстрации.
 
 - 🐍 **Backend:** API и сервисы на Python и FastAPI.
-- 📱 **Приложения:** интерфейсы на Flutter и Dart.
-- 🐳 **Инфраструктура:** Docker, Linux и управление окружением в Proxmox.
+- 📱 **Приложения:** интерфейсы на Flutter и Dart, настольные приложения на C++ и Qt.
+- 🐳 **Инфраструктура:** Docker, CachyOS и управление окружением в Proxmox.
 - 🤝 **Командная работа:** координация разработки и интеграция компонентов проекта.
 
 ## Технологии
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+### Языки программирования
 
-| Направление | Технологии |
-| --- | --- |
-| Backend | Python, FastAPI |
-| Приложения | Flutter, Dart |
-| Базы данных | PostgreSQL |
-| Инфраструктура | Docker, Linux, Proxmox |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Разработка интерфейсов и приложений
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### Backend-разработка
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Базы данных и хранилища
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Рабочее окружение
+
+![CachyOS](https://img.shields.io/badge/CachyOS-00BCAF?style=for-the-badge)
 
 ## Проекты
 
