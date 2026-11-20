@@ -1,4 +1,4 @@
-# Daniel
+# Ezzo Daniel
 
 **Backend · Flutter · Infrastructure**
 
